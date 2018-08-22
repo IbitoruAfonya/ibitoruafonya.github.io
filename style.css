@@ -9,3 +9,6 @@ html {
   margin: 5px;
   padding: 20px;
 }
+nav ul {
+  display: inline;
+}
