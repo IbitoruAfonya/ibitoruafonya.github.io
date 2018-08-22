@@ -4,3 +4,9 @@ p {
 h1,h3 {
   color: dark grey;
 }
+html {
+  text-align: center;
+  background-color: #D6B47E;
+  padding: 3px 10px;
+  margin: 5px;
+}
