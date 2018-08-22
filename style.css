@@ -5,6 +5,10 @@ h1,h3 {
   color: dark grey;
 }
 html {
-  background-color: #e6e6e6;
-  margin: 8px;
+  background-color: #ffffff;
+  margin: 2px;
+  padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
