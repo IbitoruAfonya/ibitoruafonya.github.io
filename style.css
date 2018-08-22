@@ -5,8 +5,8 @@ h1,h3 {
   color: dark grey;
 }
 html {
-  text-align: center;
-  background-color: #D6B47E;
-  padding: 3px 10px;
-  margin: 5px;
+  text-align: left;
+  background-color: #e6e6e6;
+  padding: 30px 10px;
+  margin: 50px;
 }
