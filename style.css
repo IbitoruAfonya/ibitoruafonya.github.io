@@ -5,9 +5,12 @@ h1,h3 {
   color: dark grey;
 }
 html {
-  
+  display: block;
   margin: auto;
   width: 70%;
   text-align: left;
+}
+div {
+  width: 60%;
 }
 
