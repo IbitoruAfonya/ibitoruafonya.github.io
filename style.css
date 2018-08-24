@@ -5,6 +5,7 @@ h1,h3 {
   color: dark grey;
 }
 html {
+  border: 1px solid #204156;
   display: block;
   margin: auto;
   width: 70%;
