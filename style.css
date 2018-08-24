@@ -5,14 +5,14 @@ h1,h3 {
   color: dark grey;
 }
 html {
-  border: 8px solid #204156;
+  border: 3px solid #204156;
   display: block;
   margin: auto;
   width: 70%;
   text-align: justify;
 }
 div {
-  width: 75%;
-  background-color: D3D3D3;
+  width: 80%;
+  background-color: 5F9EA0;
 }
 
