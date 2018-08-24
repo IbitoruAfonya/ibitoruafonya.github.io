@@ -5,7 +5,6 @@ h1,h3 {
   color: dark grey;
 }
 html {
-  background-color: D3D3D3;
   border: 8px solid #204156;
   display: block;
   margin: auto;
@@ -13,6 +12,7 @@ html {
   text-align: justify;
 }
 div {
-  width: 80%;
+  width: 75%;
+  background-color: D3D3D3;
 }
 
